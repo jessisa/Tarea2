@@ -3,7 +3,7 @@
 using Microsoft.VisualBasic;
 using System.Collections;
 
-
+//comentario jessica 29/05/2024
 
 #region ejercicio01   
 static void convertirnumero(string cad)
